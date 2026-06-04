@@ -75,3 +75,6 @@ beautifulsoup4==4.14.3
 # only remaining optional one:
 #   - tomli      : TOML reader on Python <3.11 (stdlib `tomllib` from 3.11+)
 # pip install "tomli; python_version<'3.11'"
+# Copy both files into your mantishack repo root
+# Copy both files into your mantishack repo root
+# pip install flask flask-cors
